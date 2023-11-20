@@ -1,0 +1,1 @@
+Please run the posts collation and comments collation code first as some of the other code wont run without it.
